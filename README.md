@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Shagun
-- 👀 I’m interested in mAnY tHiNgS
-- 🌱 I’m currently learning HTML/CSS/GIT
 - 📫 My previous account :https://github.com/raishagun
 
 <!---
